@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github Tracker</string>
+    <string name="share_subject">Share</string>
+    <string name="share_using">Via</string>
+</resources>
